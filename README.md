@@ -1,3 +1,7 @@
+# Note from Moxi
+We use this particular fork of this repo since it aligns to our Java version 21.
+Some Ukrainian timezones were renamed from Soviet names to Ukrainian, and we have to wait for Java to support this.
+
 # timezones-list
 This package contains an array of timezones based on conventional options.
 
